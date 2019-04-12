@@ -14,6 +14,6 @@
   
   * [iPhone 客户端](https://github.com/bestHAI/static/raw/master/shadowsocks/clients/iphone/ShadowsocksX-2.6.3.dmg)
   
-  * [Mac os 客户端](https://github.com/bestHAI/static/raw/master/)
+  * Mac os 客户端（暂无）
   
-  * [Linux 客户端](https://github.com/bestHAI/static/raw/master/)
+  * Linux 客户端（待完善）
